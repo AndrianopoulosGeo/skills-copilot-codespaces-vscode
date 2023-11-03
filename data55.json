@@ -1,5 +1,5 @@
 {
-  "updateMarker": "2201011315002960000",
+  "updateMarker": "2201011315002970000",
   "flights": [
     {
       "flightKey": "362012",
@@ -97,6 +97,44 @@
       "lastUpdate": "2022-01-01T13:15:00.074"
     },
     {
+      "flightKey": "352809",
+      "airline": "SWISS International",
+      "schDate": "2022-01-14T08:15:00",
+      "stops": {
+        "ZRH": "Zurich"
+      },
+      "iataAirCode": "LX",
+      "flightNum": "750",
+      "sens": "A",
+      "aircraftType": "221",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.274"
+    },
+    {
+      "flightKey": "357465",
+      "airline": "Ryanair",
+      "schDate": "2022-01-14T08:25:00",
+      "stops": {
+        "BGY": "Milan-Bergamo"
+      },
+      "iataAirCode": "FR",
+      "flightNum": "5835",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.181"
+    },
+    {
       "flightKey": "357501",
       "airline": "Ryanair",
       "schDate": "2022-01-14T09:00:00",
@@ -116,6 +154,25 @@
       "lastUpdate": "2022-01-01T13:15:00.18"
     },
     {
+      "flightKey": "353508",
+      "airline": "KLM Royal Dutch Airlines",
+      "schDate": "2022-01-14T10:20:00",
+      "stops": {
+        "AMS": "Amsterdam"
+      },
+      "iataAirCode": "KL",
+      "flightNum": "1739",
+      "sens": "A",
+      "aircraftType": "E7W",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.26"
+    },
+    {
       "flightKey": "352894",
       "airline": "SWISS International",
       "schDate": "2022-01-14T10:35:00",
@@ -133,6 +190,25 @@
       "terminal": "TLA",
       "bagStarted": false,
       "lastUpdate": "2022-01-01T13:15:00.272"
+    },
+    {
+      "flightKey": "361681",
+      "airline": "Lufthansa",
+      "schDate": "2022-01-14T10:40:00",
+      "stops": {
+        "FRA": "Frankfurt"
+      },
+      "iataAirCode": "LH",
+      "flightNum": "392",
+      "sens": "A",
+      "aircraftType": "CR9",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.108"
     },
     {
       "flightKey": "353593",
@@ -268,6 +344,44 @@
       "lastUpdate": "2022-01-01T13:15:00.225"
     },
     {
+      "flightKey": "360299",
+      "airline": "Ryanair",
+      "schDate": "2022-01-14T12:00:00",
+      "stops": {
+        "MRS": "Marseille"
+      },
+      "iataAirCode": "FR",
+      "flightNum": "9248",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.121"
+    },
+    {
+      "flightKey": "362050",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T12:20:00",
+      "stops": {
+        "LIS": "Lisbon"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "3760",
+      "sens": "A",
+      "aircraftType": "73W",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.101"
+    },
+    {
       "flightKey": "360263",
       "airline": "Ryanair",
       "schDate": "2022-01-14T12:35:00",
@@ -304,6 +418,44 @@
       "terminal": "TLA",
       "bagStarted": false,
       "lastUpdate": "2022-01-01T13:15:00.144"
+    },
+    {
+      "flightKey": "361800",
+      "airline": "Lufthansa",
+      "schDate": "2022-01-14T13:30:00",
+      "stops": {
+        "FRA": "Frankfurt"
+      },
+      "iataAirCode": "LH",
+      "flightNum": "394",
+      "sens": "A",
+      "aircraftType": "CR9",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.105"
+    },
+    {
+      "flightKey": "358818",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T13:50:00",
+      "stops": {
+        "CDG": "Paris - CDG"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "8014",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.148"
     },
     {
       "flightKey": "361850",
@@ -363,6 +515,63 @@
       "lastUpdate": "2022-01-01T13:15:00.086"
     },
     {
+      "flightKey": "357563",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T15:00:00",
+      "stops": {
+        "VCE": "Venice"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "6542",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.178"
+    },
+    {
+      "flightKey": "356983",
+      "airline": "Ryanair",
+      "schDate": "2022-01-14T15:25:00",
+      "stops": {
+        "MAD": "Madrid"
+      },
+      "iataAirCode": "FR",
+      "flightNum": "5054",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.195"
+    },
+    {
+      "flightKey": "360191",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T15:45:00",
+      "stops": {
+        "DXB": "Dubai"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "9002",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.123"
+    },
+    {
       "flightKey": "357031",
       "airline": "Ryanair",
       "schDate": "2022-01-14T16:15:00",
@@ -380,6 +589,120 @@
       "terminal": "TLA",
       "bagStarted": false,
       "lastUpdate": "2022-01-01T13:15:00.194"
+    },
+    {
+      "flightKey": "352304",
+      "airline": "AEGEAN AIRLINES",
+      "schDate": "2022-01-14T16:25:00",
+      "stops": {
+        "ATH": "Athens"
+      },
+      "iataAirCode": "A3",
+      "flightNum": "628",
+      "sens": "A",
+      "aircraftType": "320",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.283"
+    },
+    {
+      "flightKey": "356013",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T16:25:00",
+      "stops": {
+        "OPO": "Porto"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "3762",
+      "sens": "A",
+      "aircraftType": "73W",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.217"
+    },
+    {
+      "flightKey": "355145",
+      "airline": "Easyjet Europe",
+      "schDate": "2022-01-14T17:00:00",
+      "stops": {
+        "MXP": "Milan-Malpensa"
+      },
+      "iataAirCode": "EC",
+      "flightNum": "2673",
+      "sens": "A",
+      "aircraftType": "320",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.237"
+    },
+    {
+      "flightKey": "359246",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T17:00:00",
+      "stops": {
+        "NCE": "Nice"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "8256",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.142"
+    },
+    {
+      "flightKey": "352509",
+      "airline": "TAP Air Portugal",
+      "schDate": "2022-01-14T17:05:00",
+      "stops": {
+        "LIS": "Lisbon"
+      },
+      "iataAirCode": "TP",
+      "flightNum": "694",
+      "sens": "A",
+      "aircraftType": "32N",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.278"
+    },
+    {
+      "flightKey": "354627",
+      "airline": "Lufthansa",
+      "schDate": "2022-01-14T17:05:00",
+      "stops": {
+        "MUC": "Munich"
+      },
+      "iataAirCode": "LH",
+      "flightNum": "2320",
+      "sens": "A",
+      "aircraftType": "CR9",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.242"
     },
     {
       "flightKey": "352328",
@@ -418,6 +741,44 @@
       "terminal": "TLA",
       "bagStarted": false,
       "lastUpdate": "2022-01-01T13:15:00.213"
+    },
+    {
+      "flightKey": "355727",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T17:20:00",
+      "stops": {
+        "BCN": "Barcelona"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "3592",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.223"
+    },
+    {
+      "flightKey": "353326",
+      "airline": "TURKISH AIRLINES",
+      "schDate": "2022-01-14T17:30:00",
+      "stops": {
+        "IST": "Istanbul"
+      },
+      "iataAirCode": "TK",
+      "flightNum": "1355",
+      "sens": "A",
+      "aircraftType": "739",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.266"
     },
     {
       "flightKey": "355185",
@@ -477,6 +838,44 @@
       "lastUpdate": "2022-01-01T13:15:00.24"
     },
     {
+      "flightKey": "358078",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T17:40:00",
+      "stops": {
+        "MXP": "Milan-Malpensa"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "6996",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.166"
+    },
+    {
+      "flightKey": "362759",
+      "airline": "KLM Royal Dutch Airlines",
+      "schDate": "2022-01-14T17:40:00",
+      "stops": {
+        "AMS": "Amsterdam"
+      },
+      "iataAirCode": "KL",
+      "flightNum": "1745",
+      "sens": "A",
+      "aircraftType": "E7W",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.095"
+    },
+    {
       "flightKey": "352492",
       "airline": "TAP Air Portugal",
       "schDate": "2022-01-14T17:50:00",
@@ -494,6 +893,44 @@
       "terminal": "TLA",
       "bagStarted": false,
       "lastUpdate": "2022-01-01T13:15:00.279"
+    },
+    {
+      "flightKey": "355567",
+      "airline": "Ryanair",
+      "schDate": "2022-01-14T17:50:00",
+      "stops": {
+        "BCN": "Barcelona"
+      },
+      "iataAirCode": "FR",
+      "flightNum": "3037",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.227"
+    },
+    {
+      "flightKey": "357393",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T17:55:00",
+      "stops": {
+        "ARN": "Stockholm-Arlanda"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "5784",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.184"
     },
     {
       "flightKey": "357100",
@@ -648,6 +1085,44 @@
       "lastUpdate": "2022-01-01T13:15:00.084"
     },
     {
+      "flightKey": "358531",
+      "airline": "Easyjet Europe",
+      "schDate": "2022-01-14T18:45:00",
+      "stops": {
+        "LIS": "Lisbon"
+      },
+      "iataAirCode": "EC",
+      "flightNum": "7657",
+      "sens": "A",
+      "aircraftType": "320",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.155"
+    },
+    {
+      "flightKey": "363614",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T18:55:00",
+      "stops": {
+        "VIE": "Vienna"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "8854",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.085"
+    },
+    {
       "flightKey": "358126",
       "airline": "Luxair",
       "schDate": "2022-01-14T19:10:00",
@@ -665,6 +1140,63 @@
       "terminal": "TLA",
       "bagStarted": false,
       "lastUpdate": "2022-01-01T13:15:00.164"
+    },
+    {
+      "flightKey": "354083",
+      "airline": "Ryanair",
+      "schDate": "2022-01-14T19:15:00",
+      "stops": {
+        "LIS": "Lisbon"
+      },
+      "iataAirCode": "FR",
+      "flightNum": "1791",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.25"
+    },
+    {
+      "flightKey": "351034",
+      "airline": "Lot Polish Airlines",
+      "schDate": "2022-01-14T19:20:00",
+      "stops": {
+        "WAW": "Warsaw"
+      },
+      "iataAirCode": "LO",
+      "flightNum": "253",
+      "sens": "A",
+      "aircraftType": "E75",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.297"
+    },
+    {
+      "flightKey": "352094",
+      "airline": "BRITISH AIRWAYS",
+      "schDate": "2022-01-14T19:20:00",
+      "stops": {
+        "LHR": "London-Heathrow"
+      },
+      "iataAirCode": "BA",
+      "flightNum": "418",
+      "sens": "A",
+      "aircraftType": "319",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.286"
     },
     {
       "flightKey": "362284",
@@ -762,6 +1294,25 @@
       "lastUpdate": "2022-01-01T13:15:00.296"
     },
     {
+      "flightKey": "355446",
+      "airline": "Ryanair",
+      "schDate": "2022-01-14T20:00:00",
+      "stops": {
+        "OPO": "Porto"
+      },
+      "iataAirCode": "FR",
+      "flightNum": "2862",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.23"
+    },
+    {
       "flightKey": "352166",
       "airline": "BRITISH AIRWAYS",
       "schDate": "2022-01-14T20:05:00",
@@ -800,6 +1351,82 @@
       "lastUpdate": "2022-01-01T13:15:00.228"
     },
     {
+      "flightKey": "354211",
+      "airline": "Ryanair",
+      "schDate": "2022-01-14T20:55:00",
+      "stops": {
+        "DUB": "Dublin"
+      },
+      "iataAirCode": "FR",
+      "flightNum": "1948",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.247"
+    },
+    {
+      "flightKey": "355288",
+      "airline": "Ryanair",
+      "schDate": "2022-01-14T21:05:00",
+      "stops": {
+        "STN": "London-Stansted"
+      },
+      "iataAirCode": "FR",
+      "flightNum": "2860",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.234"
+    },
+    {
+      "flightKey": "358333",
+      "airline": "Easyjet Europe",
+      "schDate": "2022-01-14T21:20:00",
+      "stops": {
+        "OPO": "Porto"
+      },
+      "iataAirCode": "EC",
+      "flightNum": "7583",
+      "sens": "A",
+      "aircraftType": "320",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.159"
+    },
+    {
+      "flightKey": "360896",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T21:25:00",
+      "stops": {
+        "MUC": "Munich"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "9738",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.109"
+    },
+    {
       "flightKey": "354259",
       "airline": "Ryanair",
       "schDate": "2022-01-14T21:30:00",
@@ -817,6 +1444,26 @@
       "terminal": "TLA",
       "bagStarted": false,
       "lastUpdate": "2022-01-01T13:15:00.246"
+    },
+    {
+      "flightKey": "351124",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T21:40:00",
+      "stops": {
+        "SID": "Sal",
+        "BVC": "Boa Vista"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "366",
+      "sens": "A",
+      "aircraftType": "73H",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.294"
     },
     {
       "flightKey": "355361",
@@ -838,6 +1485,25 @@
       "lastUpdate": "2022-01-01T13:15:00.232"
     },
     {
+      "flightKey": "363903",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T21:45:00",
+      "stops": {
+        "HAM": "Hamburg"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "9514",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.079"
+    },
+    {
       "flightKey": "358394",
       "airline": "Easyjet Europe",
       "schDate": "2022-01-14T21:50:00",
@@ -855,6 +1521,196 @@
       "terminal": "TLA",
       "bagStarted": false,
       "lastUpdate": "2022-01-01T13:15:00.158"
+    },
+    {
+      "flightKey": "351870",
+      "airline": "Lufthansa",
+      "schDate": "2022-01-14T22:20:00",
+      "stops": {
+        "FRA": "Frankfurt"
+      },
+      "iataAirCode": "LH",
+      "flightNum": "398",
+      "sens": "A",
+      "aircraftType": "E190",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.29"
+    },
+    {
+      "flightKey": "353978",
+      "airline": "KLM Royal Dutch Airlines",
+      "schDate": "2022-01-14T22:20:00",
+      "stops": {
+        "AMS": "Amsterdam"
+      },
+      "iataAirCode": "KL",
+      "flightNum": "1749",
+      "sens": "A",
+      "aircraftType": "E7W",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.252"
+    },
+    {
+      "flightKey": "357172",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T22:20:00",
+      "stops": {
+        "CPH": "Copenhagen"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "5436",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.19"
+    },
+    {
+      "flightKey": "362348",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T22:25:00",
+      "stops": {
+        "LCY": "London-City"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "4598",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.097"
+    },
+    {
+      "flightKey": "363815",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T22:25:00",
+      "stops": {
+        "BER": "Berlin-Brandenburg"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "9474",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.082"
+    },
+    {
+      "flightKey": "358194",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T22:30:00",
+      "stops": {
+        "MXP": "Milan-Malpensa"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "6998",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.162"
+    },
+    {
+      "flightKey": "359653",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T22:30:00",
+      "stops": {
+        "GVA": "Geneva"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "8368",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T01",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.132"
+    },
+    {
+      "flightKey": "357721",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T22:45:00",
+      "stops": {
+        "FCO": "Rome-Fiumicino"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "6556",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.174"
+    },
+    {
+      "flightKey": "359137",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T22:45:00",
+      "stops": {
+        "NCE": "Nice"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "8246",
+      "sens": "A",
+      "aircraftType": "DH4",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T03",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.146"
+    },
+    {
+      "flightKey": "356277",
+      "airline": "Luxair",
+      "schDate": "2022-01-14T22:50:00",
+      "stops": {
+        "MAD": "Madrid"
+      },
+      "iataAirCode": "LG",
+      "flightNum": "3838",
+      "sens": "A",
+      "aircraftType": "73W",
+      "approach": false,
+      "boarding": false,
+      "statusCode": "PR",
+      "terminal": "TLA",
+      "bagBelt": "T02",
+      "bagStarted": false,
+      "lastUpdate": "2022-01-01T13:15:00.211"
     }
   ]
 }
